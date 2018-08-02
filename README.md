@@ -1,3 +1,5 @@
+my facebook page:https://www.facebook.com/KING231MONTSER
+
 كيفيه الاستخدام؟
 اول شي لازم تعمل الامر ده chmod +x passmk
 وبعدين افتحه عادي عبر الامر ./passmk
